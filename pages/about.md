@@ -1,19 +1,13 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 程序员
+keywords: Java
 comments: true
 menu: 关于
 permalink: /about/
 ---
-
-我是马壮，码而生，码而立。
-
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
-
+一个普通的程序员
 ## 联系
 
 {% for website in site.data.social %}
